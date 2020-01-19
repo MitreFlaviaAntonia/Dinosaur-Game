@@ -1,6 +1,6 @@
 # Dinosaur-Game
 
-d_game.exe is the file that contains the playable game
+d_Game.exe is the file that contains the playable game
 
 Controls:
   Keys: 1, 2, 3, 4 to move on one of the four horizontal channels
