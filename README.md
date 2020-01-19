@@ -11,3 +11,5 @@ Increase your score by collecting coins.
 Collect potions to gain extra lives. One potion = one life.
 Avoid the rocks, they make you lose lives!
 The game ends when you hit the minimum score at level three, or if you lose all the lives.
+
+Contributors: Văduva Alexandra Mihaela and Șerban-Dinu Andra
